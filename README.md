@@ -10,3 +10,8 @@ A diagramação das classes e interfaces com a proposta de representar os papéi
 Reprodutor Musical, Aparelho Telefônico e Navegador na Internet. 
 
 Em seguida crie as classes e interfaces no formato de arquivos .java
+
+
+O diagrama foi criado com o auxílio do plugin PlantUML Integration:
+
+<img src="./src/iphone/uml-iphone.png">
