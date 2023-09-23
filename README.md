@@ -1,4 +1,4 @@
-Projeto desenvolvido como parte do desafio de projeto "Criando um pequeno sistema para validação de processo seletivo" do Santander Bootcamp 2023 - Fullstack Java+Angular.
+Projeto desenvolvido como parte do desafio de projeto "Orientação a Objetos e UML: Diagramação de Classes do iPhone" do Santander Bootcamp 2023 - Fullstack Java+Angular.
 
 #### Descrição do desafio:
 
